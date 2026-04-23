@@ -1,0 +1,14 @@
+﻿{
+    "version":  "0.1.0",
+    "types":  "dist/index.d.ts",
+    "type":  "module",
+    "name":  "@oora/pretaco-intelligence",
+    "private":  false,
+    "scripts":  {
+                    "build":  "tsc -p tsconfig.json"
+                },
+    "devDependencies":  {
+                            "typescript":  "^5.8.2"
+                        },
+    "main":  "dist/index.js"
+}
